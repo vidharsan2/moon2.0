@@ -47,9 +47,9 @@ window.CAPSULE = {
   // then list their exact file names here (case matters). Add or remove lines freely.
   // caption is optional - leave it as "" if you don't want text under a photo.
   photos: [
-    { src: "photo1.jpg", caption: "" },
-    { src: "photo2.jpg", caption: "" },
-    { src: "photo3.jpg", caption: "" },
+    { src: "photo1.jpg", caption: "🦋🌼" },
+    { src: "photo2.jpg", caption: "❤️" },
+    { src: "photo3.jpg", caption: "😽" },
   ],
 
   // Song that plays once she enters the PIN and this page opens.
